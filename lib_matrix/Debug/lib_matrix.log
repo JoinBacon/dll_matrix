@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  classes_functions.cpp
+  dllmain.cpp
+  other_func.cpp
+  Создание кода...
+     Создается библиотека C:\Users\Lenovo\source\repos\lib_matrix\Debug\lib_matrix.lib и объект C:\Users\Lenovo\source\repos\lib_matrix\Debug\lib_matrix.exp
+  lib_matrix.vcxproj -> C:\Users\Lenovo\source\repos\lib_matrix\Debug\lib_matrix.dll
